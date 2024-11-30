@@ -60,8 +60,8 @@ Basic formatting of the header is possible in this section.
 - **Background** - Background color for the header [*](#theme-colors)
 - **Outline** - Option to set the outline around the title: None, Bottom Only, Top Only, Left Only, Right Only, Top + Bottom, Left + Right and Frame
 - **Text size** - Text size used for the header
-- **Font Family** - Font Family used by the title
-- **Font Style** - Font Family used by the title. Options are: Normal and *Italic*
+- **IRANSansWeb** - IRANSansWeb used by the title
+- **Font Style** - IRANSansWeb used by the title. Options are: Normal and *Italic*
 - **Font Weight** - Font Weight used by the title. Options are: <div style="font-weight: 200; display: inline">Light</div>, Normal, <div style="font-weight: 600; display: inline">Semi Bold</div> and **Bold**
 
 ## Items
@@ -75,8 +75,8 @@ Basic color formatting of the items
 - **Scrollbar Color** - Color used for the color if the scrollbar [*](#theme-colors)
 - **Background** - Background color for the items [*](#theme-colors)
 - **Text size** - Text size used for the items
-- **Font Family** - Font Family used by the items
-- **Font Style** - Font Family used by the items. Options are: Normal and *Italic*
+- **IRANSansWeb** - IRANSansWeb used by the items
+- **Font Style** - IRANSansWeb used by the items. Options are: Normal and *Italic*
 - **Font Weight** - Font Weight used by the items. Options are: <div style="font-weight: 200; display: inline">Light</div>, Normal, <div style="font-weight: 600; display: inline">Semi Bold</div> and **Bold**
 
 ## Search box
@@ -87,7 +87,7 @@ If Search is enables via the visual menu (...) this option will be available to 
 - **Font Color** - Font color used for the text of the searchbox [*](#theme-colors)
 - **Icon Color** - Color used for the icons in the searchbox [*](#theme-colors)
 - **Background** - Color used for the background color of the searchbox [*](#theme-colors)
-- **Font Family** - Font Family used by the text of the searchbox
+- **IRANSansWeb** - IRANSansWeb used by the text of the searchbox
 - **Text size** - Text size used for the text of the searchbox
 
 ## Zoom mode
